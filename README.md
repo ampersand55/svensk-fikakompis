@@ -10,3 +10,5 @@ This is a set of instructions intended to use in a custom AI prompt, which is av
 * [Grok - Project](https://grok.com/project)
 * [Claude - Artifact](https://claude.ai/artifacts/my)
 * [Perplexity - Space](https://www.perplexity.ai/spaces/)
+
+[download it here](https://ampersand55.github.io/svensk-fikakompis/svenskfikakompis.txt)
